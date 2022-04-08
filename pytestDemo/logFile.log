@@ -1,0 +1,66 @@
+2022-03-31 18:55:29,942 :INFO : test_editProfile :Uma
+2022-03-31 18:55:29,942 :INFO : test_editProfile :Shaker
+2022-03-31 18:55:29,943 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-03-31 18:55:29,943 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-03-31 18:55:39,437 :INFO : test_editProfile :Uma
+2022-03-31 18:55:39,437 :INFO : test_editProfile :Shaker
+2022-03-31 18:55:39,437 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-03-31 18:55:39,437 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-03-31 18:55:43,443 :INFO : test_editProfile :Uma
+2022-03-31 18:55:43,444 :INFO : test_editProfile :Shaker
+2022-03-31 18:55:43,444 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-03-31 18:55:43,444 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-03-31 19:23:37,156 :INFO : test_editProfile :Uma
+2022-03-31 19:23:37,156 :INFO : test_editProfile :Shaker
+2022-03-31 19:23:37,156 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-03-31 19:23:37,156 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-03-31 19:23:37,163 :INFO : test_crossBrowser :chrome
+2022-03-31 19:23:37,169 :INFO : test_crossBrowser :firefox
+2022-03-31 19:23:37,169 :INFO : test_crossBrowser :firefox
+2022-03-31 19:23:37,175 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:37,175 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:37,175 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:54,474 :INFO : test_editProfile :Uma
+2022-03-31 19:23:54,474 :INFO : test_editProfile :Shaker
+2022-03-31 19:23:54,475 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-03-31 19:23:54,475 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-03-31 19:23:54,481 :INFO : test_crossBrowser :chrome
+2022-03-31 19:23:54,488 :INFO : test_crossBrowser :firefox
+2022-03-31 19:23:54,488 :INFO : test_crossBrowser :firefox
+2022-03-31 19:23:54,495 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:54,495 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:54,495 :INFO : test_crossBrowser :edge
+2022-03-31 19:23:54,504 :INFO : test_validateFifture1 :First Test Method
+2022-03-31 19:23:54,510 :INFO : test_validateFifture2 :Second Test Method
+2022-03-31 19:23:54,519 :INFO : pytestDemo.test_logging :Information statement
+2022-03-31 19:23:54,519 :WARNING : pytestDemo.test_logging :Something is in warning mode
+2022-03-31 19:23:54,519 :ERROR : pytestDemo.test_logging :A Major error has happened
+2022-03-31 19:23:54,519 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-04-01 20:29:23,746 :INFO : test_validateFifture1 :First Test Method
+2022-04-01 20:29:23,754 :INFO : test_validateFifture2 :Second Test Method
+2022-04-03 12:34:32,793 :INFO : test_crossBrowser :chrome
+2022-04-03 12:34:32,804 :INFO : test_crossBrowser :firefox
+2022-04-03 12:34:32,804 :INFO : test_crossBrowser :firefox
+2022-04-03 12:34:32,815 :INFO : test_crossBrowser :edge
+2022-04-03 12:34:32,815 :INFO : test_crossBrowser :edge
+2022-04-03 12:34:32,815 :INFO : test_crossBrowser :edge
+2022-04-04 18:23:57,849 :INFO : test_editProfile :Uma
+2022-04-04 18:23:57,849 :INFO : test_editProfile :Shaker
+2022-04-04 18:23:57,849 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-04-04 18:23:57,849 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-04-04 18:23:57,856 :INFO : test_crossBrowser :chrome
+2022-04-04 18:23:57,862 :INFO : test_crossBrowser :firefox
+2022-04-04 18:23:57,862 :INFO : test_crossBrowser :firefox
+2022-04-04 18:23:57,869 :INFO : test_crossBrowser :edge
+2022-04-04 18:23:57,869 :INFO : test_crossBrowser :edge
+2022-04-04 18:23:57,869 :INFO : test_crossBrowser :edge
+2022-04-04 18:35:43,346 :INFO : test_editProfile :Uma
+2022-04-04 18:35:43,346 :INFO : test_editProfile :Shaker
+2022-04-04 18:35:43,347 :INFO : test_editProfile :umashanker.testing@gmail.com
+2022-04-04 18:35:43,347 :INFO : test_editProfile :['Uma', 'Shaker', 'umashanker.testing@gmail.com']
+2022-04-04 18:35:43,353 :INFO : test_crossBrowser :chrome
+2022-04-04 18:35:43,359 :INFO : test_crossBrowser :firefox
+2022-04-04 18:35:43,359 :INFO : test_crossBrowser :firefox
+2022-04-04 18:35:43,366 :INFO : test_crossBrowser :edge
+2022-04-04 18:35:43,366 :INFO : test_crossBrowser :edge
+2022-04-04 18:35:43,366 :INFO : test_crossBrowser :edge

@@ -2,7 +2,7 @@ import openpyxl
 
 book = openpyxl.load_workbook("C:\\Users\\umayadav\\PycharmProjects\\TestDataPython.xlsx")
 sheet = book.active
-dict = {}
+dict = {} #declare dictionary
 print(sheet.max_row)  # total number of rows
 print(sheet.max_column)  # total number of columns
 for i in range(1, sheet.max_row + 1):
